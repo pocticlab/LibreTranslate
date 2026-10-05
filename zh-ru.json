@@ -1,0 +1,1285 @@
+{
+  "meta": {
+    "name": "深北莫中俄校园术语库",
+    "version": "0.1.0",
+    "source_lang": "zh",
+    "target_lang": "ru",
+    "updated": "2026-10-05",
+    "warning": "本词表的俄语译法由 AI 依据公开教学资料初步生成，未经俄语母语者审定。标有 verify:true 的条目把握较低，优先请本校师生或外方老师核对后再使用。",
+    "disclaimer": {
+      "status": "草案，未经审定（draft, unreviewed）",
+      "review_status": "全部 157 条均由 AI 初步生成，尚无一条经俄语母语者、本校俄语教师或俄方教师确认",
+      "source": "AI 依据公开培养方案、学科目录与高校行政通用语生成；非权威辞书，不等同于专业审校结果",
+      "usage_restriction": "当前版本不得直接用于正式对外材料，包括成绩单、在读证明、学历学位文件、提交外方院校或教师的正式公函与邮件、校内正式通知的对外俄文版本，以及任何具有证明效力或法律效力的文件。建议用途限于内部沟通草稿、学习辅助与术语检索参考。对外发出的材料应由具备俄语能力的人员复核后使用。",
+      "license": "词条数据以 CC BY 4.0 开放共享；代码遵循 AGPL-3.0",
+      "full_text": "DISCLAIMER.md（仓库根目录）"
+    },
+    "fields": {
+      "zh": "中文原词",
+      "ru": "俄文译法（术语库强制采用）",
+      "en": "英文译法（仅供参考，因为实际翻译要经英文中转）",
+      "domain": "所属领域",
+      "verify": "true 表示译法待人工核对",
+      "lock": "strict=强制替换；soft=只在界面提示建议译法，不改写原文"
+    },
+    "soft_count": 17
+  },
+  "terms": [
+    {
+      "zh": "数学分析",
+      "ru": "Математический анализ",
+      "en": "Mathematical analysis",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "高等代数",
+      "ru": "Высшая алгебра",
+      "en": "Advanced algebra",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "线性代数",
+      "ru": "Линейная алгебра",
+      "en": "Linear algebra",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "解析几何",
+      "ru": "Аналитическая геометрия",
+      "en": "Analytic geometry",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "微分几何",
+      "ru": "Дифференциальная геометрия",
+      "en": "Differential geometry",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "常微分方程",
+      "ru": "Обыкновенные дифференциальные уравнения",
+      "en": "Ordinary differential equations",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "偏微分方程",
+      "ru": "Дифференциальные уравнения в частных производных",
+      "en": "Partial differential equations",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "数学物理方程",
+      "ru": "Уравнения математической физики",
+      "en": "Equations of mathematical physics",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "概率论",
+      "ru": "Теория вероятностей",
+      "en": "Probability theory",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "数理统计",
+      "ru": "Математическая статистика",
+      "en": "Mathematical statistics",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "随机过程",
+      "ru": "Случайные процессы",
+      "en": "Stochastic processes",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "离散数学",
+      "ru": "Дискретная математика",
+      "en": "Discrete mathematics",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "图论",
+      "ru": "Теория графов",
+      "en": "Graph theory",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "组合数学",
+      "ru": "Комбинаторика",
+      "en": "Combinatorics",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "数论",
+      "ru": "Теория чисел",
+      "en": "Number theory",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "抽象代数",
+      "ru": "Абстрактная алгебра",
+      "en": "Abstract algebra",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "泛函分析",
+      "ru": "Функциональный анализ",
+      "en": "Functional analysis",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "实变函数",
+      "ru": "Теория функций действительного переменного",
+      "en": "Real analysis",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "复变函数",
+      "ru": "Теория функций комплексного переменного",
+      "en": "Complex analysis",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "拓扑学",
+      "ru": "Топология",
+      "en": "Topology",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "数值分析",
+      "ru": "Численный анализ",
+      "en": "Numerical analysis",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "计算方法",
+      "ru": "Численные методы",
+      "en": "Numerical methods",
+      "domain": "课程·数学",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "最优化方法",
+      "ru": "Методы оптимизации",
+      "en": "Optimization methods",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "运筹学",
+      "ru": "Исследование операций",
+      "en": "Operations research",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "数学建模",
+      "ru": "Математическое моделирование",
+      "en": "Mathematical modelling",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "数学实验",
+      "ru": "Математический практикум",
+      "en": "Mathematical laboratory course",
+      "domain": "课程·数学",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "微分方程数值解",
+      "ru": "Численное решение дифференциальных уравнений",
+      "en": "Numerical solution of differential equations",
+      "domain": "课程·数学",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "计算几何",
+      "ru": "Вычислительная геометрия",
+      "en": "Computational geometry",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "密码学",
+      "ru": "Криптография",
+      "en": "Cryptography",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "信息论",
+      "ru": "Теория информации",
+      "en": "Information theory",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "博弈论",
+      "ru": "Теория игр",
+      "en": "Game theory",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "集合论",
+      "ru": "Теория множеств",
+      "en": "Set theory",
+      "domain": "课程·数学",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "数学基础",
+      "ru": "Основания математики",
+      "en": "Foundations of mathematics",
+      "domain": "课程·数学",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "数据结构",
+      "ru": "Структуры данных",
+      "en": "Data structures",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "算法设计与分析",
+      "ru": "Проектирование и анализ алгоритмов",
+      "en": "Algorithm design and analysis",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "程序设计",
+      "ru": "Программирование",
+      "en": "Programming",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "面向对象程序设计",
+      "ru": "Объектно-ориентированное программирование",
+      "en": "Object-oriented programming",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "操作系统",
+      "ru": "Операционные системы",
+      "en": "Operating systems",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "计算机网络",
+      "ru": "Компьютерные сети",
+      "en": "Computer networks",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "数据库原理",
+      "ru": "Основы баз данных",
+      "en": "Fundamentals of databases",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "编译原理",
+      "ru": "Принципы компиляции",
+      "en": "Compiler principles",
+      "domain": "课程·计算机",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "计算机组成原理",
+      "ru": "Архитектура вычислительных систем",
+      "en": "Computer organization",
+      "domain": "课程·计算机",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "软件工程",
+      "ru": "Инженерия программного обеспечения",
+      "en": "Software engineering",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "人工智能",
+      "ru": "Искусственный интеллект",
+      "en": "Artificial intelligence",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "机器学习",
+      "ru": "Машинное обучение",
+      "en": "Machine learning",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "深度学习",
+      "ru": "Глубокое обучение",
+      "en": "Deep learning",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "计算机图形学",
+      "ru": "Компьютерная графика",
+      "en": "Computer graphics",
+      "domain": "课程·计算机",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "分布式系统",
+      "ru": "Распределённые системы",
+      "en": "Distributed systems",
+      "domain": "课程·计算机",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "学分",
+      "ru": "Зачётная единица",
+      "en": "Credit",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "绩点",
+      "ru": "Балл успеваемости",
+      "en": "Grade point",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "平均绩点",
+      "ru": "Средний балл успеваемости",
+      "en": "GPA",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "辅导员",
+      "ru": "Куратор",
+      "en": "Counselor",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "班主任",
+      "ru": "Куратор группы",
+      "en": "Class advisor",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "教务处",
+      "ru": "Учебное управление",
+      "en": "Academic affairs office",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "学院",
+      "ru": "Институт",
+      "en": "School / Institute",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "系",
+      "ru": "Кафедра",
+      "en": "Department",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "教研室",
+      "ru": "Кафедра",
+      "en": "Teaching and research unit",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "培养方案",
+      "ru": "Образовательная программа",
+      "en": "Degree programme",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "教学计划",
+      "ru": "Учебный план",
+      "en": "Curriculum",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "课程表",
+      "ru": "Расписание занятий",
+      "en": "Timetable",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "选课",
+      "ru": "Запись на курсы",
+      "en": "Course registration",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "退课",
+      "ru": "Отказ от курса",
+      "en": "Course withdrawal",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "必修课",
+      "ru": "Обязательный курс",
+      "en": "Compulsory course",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "选修课",
+      "ru": "Курс по выбору",
+      "en": "Elective course",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "通识课",
+      "ru": "Общеобразовательный курс",
+      "en": "General education course",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "专业课",
+      "ru": "Профильная дисциплина",
+      "en": "Major course",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "公共课",
+      "ru": "Общая дисциплина",
+      "en": "Common course",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "学期",
+      "ru": "Семестр",
+      "en": "Semester",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "学年",
+      "ru": "Учебный год",
+      "en": "Academic year",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "补考",
+      "ru": "Пересдача",
+      "en": "Resit",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "重修",
+      "ru": "Повторное изучение курса",
+      "en": "Course retake",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "挂科",
+      "ru": "Неудовлетворительная оценка",
+      "en": "Fail a course",
+      "domain": "教务",
+      "verify": true,
+      "lock": "soft"
+    },
+    {
+      "zh": "毕业设计",
+      "ru": "Выпускная квалификационная работа",
+      "en": "Graduation project",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "毕业论文",
+      "ru": "Выпускная квалификационная работа",
+      "en": "Graduation thesis",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "答辩",
+      "ru": "Защита выпускной работы",
+      "en": "Thesis defence",
+      "domain": "教务",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "开题报告",
+      "ru": "Отчёт по утверждению темы",
+      "en": "Thesis proposal",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "中期检查",
+      "ru": "Промежуточный контроль",
+      "en": "Mid-term review",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "实习",
+      "ru": "Практика",
+      "en": "Internship",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "成绩单",
+      "ru": "Академическая справка",
+      "en": "Transcript",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "在读证明",
+      "ru": "Справка об обучении",
+      "en": "Certificate of enrolment",
+      "domain": "教务",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "学籍",
+      "ru": "Студенческий статус",
+      "en": "Student status",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "保研",
+      "ru": "Поступление в магистратуру по рекомендации без экзаменов",
+      "en": "Recommended admission to master's",
+      "domain": "教务",
+      "verify": true,
+      "lock": "soft"
+    },
+    {
+      "zh": "考研",
+      "ru": "Вступительные экзамены в магистратуру",
+      "en": "Master's entrance exam",
+      "domain": "教务",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "推免",
+      "ru": "Рекомендация без вступительных экзаменов",
+      "en": "Recommendation without exams",
+      "domain": "教务",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "宿舍",
+      "ru": "Общежитие",
+      "en": "Dormitory",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "食堂",
+      "ru": "Столовая",
+      "en": "Canteen",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "图书馆",
+      "ru": "Библиотека",
+      "en": "Library",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "教学楼",
+      "ru": "Учебный корпус",
+      "en": "Teaching building",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "校医院",
+      "ru": "Университетская поликлиника",
+      "en": "Campus clinic",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "学生证",
+      "ru": "Студенческий билет",
+      "en": "Student ID card",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "校园卡",
+      "ru": "Университетская карта",
+      "en": "Campus card",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "一卡通",
+      "ru": "Единая университетская карта",
+      "en": "All-in-one campus card",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "班长",
+      "ru": "Староста группы",
+      "en": "Class monitor",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "学生会",
+      "ru": "Студенческий совет",
+      "en": "Student union",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "社团",
+      "ru": "Студенческое объединение",
+      "en": "Student club",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "奖学金",
+      "ru": "Стипендия",
+      "en": "Scholarship",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "助学金",
+      "ru": "Социальная стипендия",
+      "en": "Grant",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "学费",
+      "ru": "Плата за обучение",
+      "en": "Tuition",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "报到",
+      "ru": "Регистрация",
+      "en": "Check-in / Registration",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "soft"
+    },
+    {
+      "zh": "开学典礼",
+      "ru": "Церемония открытия учебного года",
+      "en": "Opening ceremony",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "毕业典礼",
+      "ru": "Церемония вручения дипломов",
+      "en": "Graduation ceremony",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "校历",
+      "ru": "Академический календарь",
+      "en": "Academic calendar",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "请假",
+      "ru": "Заявление об отсутствии",
+      "en": "Request for leave",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "soft"
+    },
+    {
+      "zh": "请假条",
+      "ru": "Заявление об отсутствии",
+      "en": "Leave application",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "寒暑假",
+      "ru": "Зимние и летние каникулы",
+      "en": "Winter and summer holidays",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "校园",
+      "ru": "Кампус",
+      "en": "Campus",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "创新创业",
+      "ru": "Инновации и предпринимательство",
+      "en": "Innovation and entrepreneurship",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "双创",
+      "ru": "Инновации и предпринимательство",
+      "en": "Innovation and entrepreneurship",
+      "domain": "校园生活",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "路演",
+      "ru": "Питч-сессия",
+      "en": "Pitch session",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "soft"
+    },
+    {
+      "zh": "项目申请书",
+      "ru": "Заявка на проект",
+      "en": "Project application",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "立项",
+      "ru": "Утверждение проекта",
+      "en": "Project approval",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "soft"
+    },
+    {
+      "zh": "孵化",
+      "ru": "Инкубация проекта",
+      "en": "Incubation",
+      "domain": "校园生活",
+      "verify": true,
+      "lock": "soft"
+    },
+    {
+      "zh": "学士学位",
+      "ru": "Степень бакалавра",
+      "en": "Bachelor's degree",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "硕士学位",
+      "ru": "Степень магистра",
+      "en": "Master's degree",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "博士学位",
+      "ru": "Степень PhD",
+      "en": "Doctoral degree",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "双学位",
+      "ru": "Двойной диплом",
+      "en": "Double degree",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "联合培养",
+      "ru": "Совместная подготовка",
+      "en": "Joint training programme",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "交换生",
+      "ru": "Студент по обмену",
+      "en": "Exchange student",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "留学生",
+      "ru": "Иностранный студент",
+      "en": "International student",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "预科",
+      "ru": "Подготовительное отделение",
+      "en": "Preparatory course",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "俄语授课",
+      "ru": "Преподавание на русском языке",
+      "en": "Taught in Russian",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "中俄双语",
+      "ru": "Двуязычие (китайский и русский)",
+      "en": "Chinese-Russian bilingual",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "教材",
+      "ru": "Учебник",
+      "en": "Textbook",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "课件",
+      "ru": "Учебные материалы",
+      "en": "Course slides",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "讲义",
+      "ru": "Конспект лекций",
+      "en": "Lecture notes",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "教学大纲",
+      "ru": "Программа курса",
+      "en": "Course syllabus",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "作业",
+      "ru": "Домашнее задание",
+      "en": "Homework",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "考试",
+      "ru": "Экзамен",
+      "en": "Exam",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "考查",
+      "ru": "Зачёт",
+      "en": "Pass-fail assessment",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "测验",
+      "ru": "Контрольная работа",
+      "en": "Quiz",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "平时成绩",
+      "ru": "Текущая успеваемость",
+      "en": "Continuous assessment",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "期末考试",
+      "ru": "Итоговый экзамен",
+      "en": "Final exam",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "及格",
+      "ru": "Удовлетворительно",
+      "en": "Pass",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "优秀",
+      "ru": "Отлично",
+      "en": "Excellent",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "满分",
+      "ru": "Максимальный балл",
+      "en": "Full marks",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "导师",
+      "ru": "Научный руководитель",
+      "en": "Supervisor",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "教授",
+      "ru": "Профессор",
+      "en": "Professor",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "副教授",
+      "ru": "Доцент",
+      "en": "Associate professor",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "讲师",
+      "ru": "Старший преподаватель",
+      "en": "Lecturer",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "助教",
+      "ru": "Ассистент",
+      "en": "Teaching assistant",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "院长",
+      "ru": "Декан",
+      "en": "Dean",
+      "domain": "学位与学术",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "系主任",
+      "ru": "Заведующий кафедрой",
+      "en": "Head of department",
+      "domain": "学位与学术",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "通知",
+      "ru": "Уведомление",
+      "en": "Notice",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "公告",
+      "ru": "Объявление",
+      "en": "Announcement",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "各位同学",
+      "ru": "Уважаемые студенты",
+      "en": "Dear students",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "请注意",
+      "ru": "Просьба обратить внимание",
+      "en": "Please note",
+      "domain": "通知与邮件",
+      "verify": true,
+      "lock": "soft"
+    },
+    {
+      "zh": "截止日期",
+      "ru": "Крайний срок",
+      "en": "Deadline",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "报名",
+      "ru": "Запись",
+      "en": "Sign up",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "参加者",
+      "ru": "Участники",
+      "en": "Participants",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "逾期不再受理",
+      "ru": "Заявки, поданные после срока, не рассматриваются",
+      "en": "Late submissions will not be accepted",
+      "domain": "通知与邮件",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "请准时参加",
+      "ru": "Просьба прийти вовремя",
+      "en": "Please attend on time",
+      "domain": "通知与邮件",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "特此通知",
+      "ru": "Настоящим уведомляем",
+      "en": "Hereby notified",
+      "domain": "通知与邮件",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "如有疑问，请联系",
+      "ru": "По всем вопросам обращаться",
+      "en": "For questions, please contact",
+      "domain": "通知与邮件",
+      "verify": true,
+      "lock": "strict"
+    },
+    {
+      "zh": "附件",
+      "ru": "Вложение",
+      "en": "Attachment",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "抄送",
+      "ru": "Копия",
+      "en": "CC",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "soft"
+    },
+    {
+      "zh": "此致敬礼",
+      "ru": "С уважением",
+      "en": "Sincerely",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "strict"
+    },
+    {
+      "zh": "尊敬的",
+      "ru": "Уважаемый",
+      "en": "Dear",
+      "domain": "通知与邮件",
+      "verify": false,
+      "lock": "strict"
+    }
+  ]
+}

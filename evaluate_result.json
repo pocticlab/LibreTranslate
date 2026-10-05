@@ -1,0 +1,1409 @@
+{
+  "sample_size": 140,
+  "raw_exact_rate": 0.07142857142857142,
+  "raw_stem_rate": 0.2642857142857143,
+  "fidelity": 1.0,
+  "similarity_threshold": 0.75,
+  "rows": [
+    {
+      "zh": "数学分析",
+      "expected_ru": "Математический анализ",
+      "raw_ru": "Запросите информацию о математическом анализе.",
+      "similarity": 0.9,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Математический анализ",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "高等代数",
+      "expected_ru": "Высшая алгебра",
+      "raw_ru": "Узнайте, пожалуйста, о верхней алгебре.",
+      "similarity": 0.538,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Высшая алгебра",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "线性代数",
+      "expected_ru": "Линейная алгебра",
+      "raw_ru": "Пожалуйста, спросите информацию о линейных алгебрах.",
+      "similarity": 0.867,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Линейная алгебра",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "解析几何",
+      "expected_ru": "Аналитическая геометрия",
+      "raw_ru": "Запросите геометрическую информацию.",
+      "similarity": 0.545,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Аналитическая геометрия",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "微分几何",
+      "expected_ru": "Дифференциальная геометрия",
+      "raw_ru": "Пожалуйста, проверьте геометрию.",
+      "similarity": 0.44,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Дифференциальная геометрия",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "常微分方程",
+      "expected_ru": "Обыкновенные дифференциальные уравнения",
+      "raw_ru": "Пожалуйста, ищите информацию о постоянном дифференциальном уравнении",
+      "similarity": 0.676,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Обыкновенные дифференциальные уравнения",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "偏微分方程",
+      "expected_ru": "Дифференциальные уравнения в частных производных",
+      "raw_ru": "Просьба представить информацию о дифференциальном уравнении.",
+      "similarity": 0.523,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Дифференциальные уравнения в частных производных",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数学物理方程",
+      "expected_ru": "Уравнения математической физики",
+      "raw_ru": "Узнайте об уравнении математической физики.",
+      "similarity": 0.966,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Уравнения математической физики",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "概率论",
+      "expected_ru": "Теория вероятностей",
+      "raw_ru": "Пожалуйста, ознакомьтесь с теорией вероятности.",
+      "similarity": 0.833,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Теория вероятностей",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数理统计",
+      "expected_ru": "Математическая статистика",
+      "raw_ru": "Запросите информацию о математической статистике.",
+      "similarity": 0.875,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Математическая статистика",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "随机过程",
+      "expected_ru": "Случайные процессы",
+      "raw_ru": "Запросить информацию о случайных процессах",
+      "similarity": 0.882,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Случайные процессы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "离散数学",
+      "expected_ru": "Дискретная математика",
+      "raw_ru": "Пожалуйста, найдите информацию о дискретной математике.",
+      "similarity": 0.85,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Дискретная математика",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "图论",
+      "expected_ru": "Теория графов",
+      "raw_ru": "Пожалуйста, узнайте о схеме.",
+      "similarity": 0.25,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Теория графов",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "组合数学",
+      "expected_ru": "Комбинаторика",
+      "raw_ru": "Пожалуйста, попросите информацию о сочетании математики.",
+      "similarity": 0.462,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Комбинаторика",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数论",
+      "expected_ru": "Теория чисел",
+      "raw_ru": "Пожалуйста, попросите информацию о теории.",
+      "similarity": 0.545,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Теория чисел",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "抽象代数",
+      "expected_ru": "Абстрактная алгебра",
+      "raw_ru": "Запрос информации об абстрактных алгебрах",
+      "similarity": 0.889,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Абстрактная алгебра",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "泛函分析",
+      "expected_ru": "Функциональный анализ",
+      "raw_ru": "Пожалуйста, запросите соответствующую информацию, проанализированную в общем письме.",
+      "similarity": 0.5,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Функциональный анализ",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "实变函数",
+      "expected_ru": "Теория функций действительного переменного",
+      "raw_ru": "Пожалуйста, запросите информацию о переменной функции.",
+      "similarity": 0.513,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Теория функций действительного переменного",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "复变函数",
+      "expected_ru": "Теория функций комплексного переменного",
+      "raw_ru": "Пожалуйста, запросите информацию о нескольких функциях.",
+      "similarity": 0.306,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Теория функций комплексного переменного",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "拓扑学",
+      "expected_ru": "Топология",
+      "raw_ru": "Пожалуйста, попросите информацию о Таку По.",
+      "similarity": 0.556,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Топология",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数值分析",
+      "expected_ru": "Численный анализ",
+      "raw_ru": "Просьба представить информацию о численном анализе.",
+      "similarity": 0.867,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Численный анализ",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "计算方法",
+      "expected_ru": "Численные методы",
+      "raw_ru": "Просьба представить информацию о методе расчета",
+      "similarity": 0.4,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Численные методы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "最优化方法",
+      "expected_ru": "Методы оптимизации",
+      "raw_ru": "Просьба представить информацию об оптимальном методе",
+      "similarity": 0.471,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Методы оптимизации",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "运筹学",
+      "expected_ru": "Исследование операций",
+      "raw_ru": "Пожалуйста, выясните, что происходит.",
+      "similarity": 0.45,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Исследование операций",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数学建模",
+      "expected_ru": "Математическое моделирование",
+      "raw_ru": "Просьба представить информацию о математическом моделировании.",
+      "similarity": 0.926,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Математическое моделирование",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数学实验",
+      "expected_ru": "Математический практикум",
+      "raw_ru": "Пожалуйста, узнайте о математическом эксперименте.",
+      "similarity": 0.609,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Математический практикум",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "微分方程数值解",
+      "expected_ru": "Численное решение дифференциальных уравнений",
+      "raw_ru": "Просьба представить информацию о численном решении дифференциального уравнения.",
+      "similarity": 0.878,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Численное решение дифференциальных уравнений",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "计算几何",
+      "expected_ru": "Вычислительная геометрия",
+      "raw_ru": "Пожалуйста, проверьте геометрическую информацию",
+      "similarity": 0.478,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Вычислительная геометрия",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "密码学",
+      "expected_ru": "Криптография",
+      "raw_ru": "Пожалуйста, проверьте пароли.",
+      "similarity": 0.25,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Криптография",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "信息论",
+      "expected_ru": "Теория информации",
+      "raw_ru": "Пожалуйста, ищите информацию об информации на информации.",
+      "similarity": 0.75,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Теория информации",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "博弈论",
+      "expected_ru": "Теория игр",
+      "raw_ru": "Пожалуйста, проверьте теорию игры.",
+      "similarity": 0.889,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Теория игр",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "集合论",
+      "expected_ru": "Теория множеств",
+      "raw_ru": "Пожалуйста, запросите информацию о кластере.",
+      "similarity": 0.429,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Теория множеств",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数学基础",
+      "expected_ru": "Основания математики",
+      "raw_ru": "Узнайте о математической базе.",
+      "similarity": 0.526,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Основания математики",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数据结构",
+      "expected_ru": "Структуры данных",
+      "raw_ru": "Пожалуйста, проверьте структуру данных",
+      "similarity": 0.933,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Структуры данных",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "算法设计与分析",
+      "expected_ru": "Проектирование и анализ алгоритмов",
+      "raw_ru": "Пожалуйста, запросите информацию о разработке и анализе алгоритмов.",
+      "similarity": 0.677,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Проектирование и анализ алгоритмов",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "程序设计",
+      "expected_ru": "Программирование",
+      "raw_ru": "Пожалуйста, запросите информацию о дизайне программы",
+      "similarity": 0.5,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Программирование",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "面向对象程序设计",
+      "expected_ru": "Объектно-ориентированное программирование",
+      "raw_ru": "Запросить информацию об объектно-ориентированном дизайне программы",
+      "similarity": 0.795,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Объектно-ориентированное программирование",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "操作系统",
+      "expected_ru": "Операционные системы",
+      "raw_ru": "Пожалуйста, запросите информацию об операционной системе.",
+      "similarity": 0.842,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Операционные системы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "计算机网络",
+      "expected_ru": "Компьютерные сети",
+      "raw_ru": "Пожалуйста, проверьте компьютерную сеть.",
+      "similarity": 0.812,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Компьютерные сети",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "数据库原理",
+      "expected_ru": "Основы баз данных",
+      "raw_ru": "Пожалуйста, проверьте информацию о обосновании базы данных",
+      "similarity": 0.667,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Основы баз данных",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "编译原理",
+      "expected_ru": "Принципы компиляции",
+      "raw_ru": "Пожалуйста, ищите информацию по принципу компиляции.",
+      "similarity": 0.944,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Принципы компиляции",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "计算机组成原理",
+      "expected_ru": "Архитектура вычислительных систем",
+      "raw_ru": "Узнайте, что из себя представляет компьютер.",
+      "similarity": 0.323,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Архитектура вычислительных систем",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "软件工程",
+      "expected_ru": "Инженерия программного обеспечения",
+      "raw_ru": "Пожалуйста, проверьте информацию о проекте программного обеспечения",
+      "similarity": 0.781,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Инженерия программного обеспечения",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "人工智能",
+      "expected_ru": "Искусственный интеллект",
+      "raw_ru": "Пожалуйста, найдите информацию об искусственном интеллекте.",
+      "similarity": 0.909,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Искусственный интеллект",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "机器学习",
+      "expected_ru": "Машинное обучение",
+      "raw_ru": "Запросите информацию о машинном обучении.",
+      "similarity": 0.875,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Машинное обучение",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "深度学习",
+      "expected_ru": "Глубокое обучение",
+      "raw_ru": "Вопросы для углубленного обучения",
+      "similarity": 0.688,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Глубокое обучение",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "计算机图形学",
+      "expected_ru": "Компьютерная графика",
+      "raw_ru": "Информация по компьютерной графике, пожалуйста.",
+      "similarity": 0.842,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Компьютерная графика",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "分布式系统",
+      "expected_ru": "Распределённые системы",
+      "raw_ru": "Для получения информации о системе распределения",
+      "similarity": 0.524,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Распределённые системы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学分",
+      "expected_ru": "Зачётная единица",
+      "raw_ru": "Пожалуйста, узнайте о кредитах.",
+      "similarity": 0.467,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Зачётная единица",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "绩点",
+      "expected_ru": "Балл успеваемости",
+      "raw_ru": "Пожалуйста, узнайте о показателях эффективности.",
+      "similarity": 0.438,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Балл успеваемости",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "平均绩点",
+      "expected_ru": "Средний балл успеваемости",
+      "raw_ru": "Пожалуйста, ищите информацию о средних показателях эффективности",
+      "similarity": 0.391,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Средний балл успеваемости",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "辅导员",
+      "expected_ru": "Куратор",
+      "raw_ru": "Пожалуйста, проконсультируйтесь с консультантом.",
+      "similarity": 0.429,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Куратор",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "班主任",
+      "expected_ru": "Куратор группы",
+      "raw_ru": "Нам нужно знать о директоре класса.",
+      "similarity": 0.385,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Куратор группы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "教务处",
+      "expected_ru": "Учебное управление",
+      "raw_ru": "Пожалуйста, обратитесь за информацией в Департамент.",
+      "similarity": 0.412,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Учебное управление",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学院",
+      "expected_ru": "Институт",
+      "raw_ru": "Пожалуйста, узнайте о колледже.",
+      "similarity": 0.375,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Институт",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "系",
+      "expected_ru": "Кафедра",
+      "raw_ru": "Пожалуйста, обратитесь в отдел за соответствующей информацией.",
+      "similarity": 0.429,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Кафедра",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "教研室",
+      "expected_ru": "Кафедра",
+      "raw_ru": "Пожалуйста, проконсультируйтесь с преподавателем.",
+      "similarity": 0.286,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Кафедра",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "培养方案",
+      "expected_ru": "Образовательная программа",
+      "raw_ru": "Пожалуйста, узнайте о программе обучения.",
+      "similarity": 0.542,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Образовательная программа",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "教学计划",
+      "expected_ru": "Учебный план",
+      "raw_ru": "Пожалуйста, узнайте о программе.",
+      "similarity": 0.273,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Учебный план",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "课程表",
+      "expected_ru": "Расписание занятий",
+      "raw_ru": "Пожалуйста, узнайте о учебной программе.",
+      "similarity": 0.294,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Расписание занятий",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "选课",
+      "expected_ru": "Запись на курсы",
+      "raw_ru": "Пожалуйста, проверьте выбор.",
+      "similarity": 0.308,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Запись на курсы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "退课",
+      "expected_ru": "Отказ от курса",
+      "raw_ru": "Пожалуйста, ищите информацию об отзыве.",
+      "similarity": 0.25,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Отказ от курса",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "必修课",
+      "expected_ru": "Обязательный курс",
+      "raw_ru": "Пожалуйста, узнайте об обязательном курсе.",
+      "similarity": 0.875,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Обязательный курс",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "选修课",
+      "expected_ru": "Курс по выбору",
+      "raw_ru": "Пожалуйста, узнайте о факультативном курсе.",
+      "similarity": 0.333,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Курс по выбору",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "通识课",
+      "expected_ru": "Общеобразовательный курс",
+      "raw_ru": "Просьба представить информацию о курсе обобщения.",
+      "similarity": 0.261,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Общеобразовательный курс",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "专业课",
+      "expected_ru": "Профильная дисциплина",
+      "raw_ru": "Пожалуйста, ознакомьтесь с соответствующей информацией о курсе.",
+      "similarity": 0.25,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Профильная дисциплина",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "公共课",
+      "expected_ru": "Общая дисциплина",
+      "raw_ru": "Пожалуйста, узнайте об общественном курсе.",
+      "similarity": 0.333,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Общая дисциплина",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学期",
+      "expected_ru": "Семестр",
+      "raw_ru": "Пожалуйста, узнайте об этом термине.",
+      "similarity": 0.429,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Семестр",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学年",
+      "expected_ru": "Учебный год",
+      "raw_ru": "Узнайте, пожалуйста, про учебный год.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Учебный год",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "补考",
+      "expected_ru": "Пересдача",
+      "raw_ru": "Пожалуйста, ищите информацию о дополнительном осмотре.",
+      "similarity": 0.333,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Пересдача",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "重修",
+      "expected_ru": "Повторное изучение курса",
+      "raw_ru": "Пожалуйста, запросите информацию о ремонте.",
+      "similarity": 0.318,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Повторное изучение курса",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "毕业设计",
+      "expected_ru": "Выпускная квалификационная работа",
+      "raw_ru": "Пожалуйста, узнайте о выпускном дизайне.",
+      "similarity": 0.29,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Выпускная квалификационная работа",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "毕业论文",
+      "expected_ru": "Выпускная квалификационная работа",
+      "raw_ru": "Пожалуйста, узнайте о своей диссертации.",
+      "similarity": 0.323,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Выпускная квалификационная работа",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "开题报告",
+      "expected_ru": "Отчёт по утверждению темы",
+      "raw_ru": "Просьба ознакомиться с первоначальным докладом.",
+      "similarity": 0.318,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Отчёт по утверждению темы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "中期检查",
+      "expected_ru": "Промежуточный контроль",
+      "raw_ru": "Пожалуйста, узнайте о среднесрочной проверке.",
+      "similarity": 0.333,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Промежуточный контроль",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "实习",
+      "expected_ru": "Практика",
+      "raw_ru": "Информация о стажировке доступна.",
+      "similarity": 0.375,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Практика",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "成绩单",
+      "expected_ru": "Академическая справка",
+      "raw_ru": "Пожалуйста, проверьте карту отчета.",
+      "similarity": 0.3,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Академическая справка",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "在读证明",
+      "expected_ru": "Справка об обучении",
+      "raw_ru": "Пожалуйста, ищите соответствующую информацию при чтении сертификата",
+      "similarity": 0.412,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Справка об обучении",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学籍",
+      "expected_ru": "Студенческий статус",
+      "raw_ru": "Пожалуйста, узнайте о ваших исследованиях.",
+      "similarity": 0.333,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Студенческий статус",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "推免",
+      "expected_ru": "Рекомендация без вступительных экзаменов",
+      "raw_ru": "Пожалуйста, проверьте информацию об исключении.",
+      "similarity": 0.324,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Рекомендация без вступительных экзаменов",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "宿舍",
+      "expected_ru": "Общежитие",
+      "raw_ru": "Пожалуйста, проверьте общежитие.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Общежитие",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "食堂",
+      "expected_ru": "Столовая",
+      "raw_ru": "Для получения информации о кафетерии, пожалуйста.",
+      "similarity": 0.375,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Столовая",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "图书馆",
+      "expected_ru": "Библиотека",
+      "raw_ru": "Информация о библиотеке",
+      "similarity": 0.9,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Библиотека",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "教学楼",
+      "expected_ru": "Учебный корпус",
+      "raw_ru": "Пожалуйста, проверьте здание.",
+      "similarity": 0.231,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Учебный корпус",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "校医院",
+      "expected_ru": "Университетская поликлиника",
+      "raw_ru": "Пожалуйста, узнайте о школьной больнице.",
+      "similarity": 0.346,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Университетская поликлиника",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学生证",
+      "expected_ru": "Студенческий билет",
+      "raw_ru": "Пожалуйста, проверьте студенческий билет.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Студенческий билет",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "校园卡",
+      "expected_ru": "Университетская карта",
+      "raw_ru": "Пожалуйста, проверьте школьную карту.",
+      "similarity": 0.5,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Университетская карта",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "一卡通",
+      "expected_ru": "Единая университетская карта",
+      "raw_ru": "Пожалуйста, проверьте мультфильм.",
+      "similarity": 0.308,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Единая университетская карта",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "班长",
+      "expected_ru": "Староста группы",
+      "raw_ru": "Пожалуйста, свяжитесь с командиром класса.",
+      "similarity": 0.357,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Староста группы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学生会",
+      "expected_ru": "Студенческий совет",
+      "raw_ru": "Пожалуйста, обратитесь в студенческий совет.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Студенческий совет",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "社团",
+      "expected_ru": "Студенческое объединение",
+      "raw_ru": "Пожалуйста, узнайте об ассоциации.",
+      "similarity": 0.391,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Студенческое объединение",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "奖学金",
+      "expected_ru": "Стипендия",
+      "raw_ru": "Информация о стипендиях имеется.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Стипендия",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "助学金",
+      "expected_ru": "Социальная стипендия",
+      "raw_ru": "Информация о стипендиях имеется.",
+      "similarity": 0.684,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Социальная стипендия",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学费",
+      "expected_ru": "Плата за обучение",
+      "raw_ru": "Информацию о стоимости обучения, пожалуйста.",
+      "similarity": 0.533,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Плата за обучение",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "开学典礼",
+      "expected_ru": "Церемония открытия учебного года",
+      "raw_ru": "Узнайте, пожалуйста, о церемонии открытия.",
+      "similarity": 0.552,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Церемония открытия учебного года",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "毕业典礼",
+      "expected_ru": "Церемония вручения дипломов",
+      "raw_ru": "Пожалуйста, узнайте об окончании.",
+      "similarity": 0.28,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Церемония вручения дипломов",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "校历",
+      "expected_ru": "Академический календарь",
+      "raw_ru": "Пожалуйста, проверьте школьный календарь.",
+      "similarity": 0.5,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Академический календарь",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "请假条",
+      "expected_ru": "Заявление об отсутствии",
+      "raw_ru": "Пожалуйста, проверьте информацию о отпуске",
+      "similarity": 0.333,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Заявление об отсутствии",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "寒暑假",
+      "expected_ru": "Зимние и летние каникулы",
+      "raw_ru": "Пожалуйста, узнайте о летних каникулах.",
+      "similarity": 0.714,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Зимние и летние каникулы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "校园",
+      "expected_ru": "Кампус",
+      "raw_ru": "Пожалуйста, узнайте о кампусе.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Кампус",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "创新创业",
+      "expected_ru": "Инновации и предпринимательство",
+      "raw_ru": "Узнайте больше об инновационном предпринимательстве",
+      "similarity": 0.828,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Инновации и предпринимательство",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "双创",
+      "expected_ru": "Инновации и предпринимательство",
+      "raw_ru": "Пожалуйста, проверьте информацию, созданную дважды.",
+      "similarity": 0.31,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Инновации и предпринимательство",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "项目申请书",
+      "expected_ru": "Заявка на проект",
+      "raw_ru": "Можно получить информацию о проектных заявках.",
+      "similarity": 0.5,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Заявка на проект",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "学士学位",
+      "expected_ru": "Степень бакалавра",
+      "raw_ru": "Пожалуйста, узнайте о степени бакалавра.",
+      "similarity": 0.938,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Степень бакалавра",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "硕士学位",
+      "expected_ru": "Степень магистра",
+      "raw_ru": "Пожалуйста, узнайте о степени магистра.",
+      "similarity": 0.933,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Степень магистра",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "博士学位",
+      "expected_ru": "Степень PhD",
+      "raw_ru": "Пожалуйста, обратитесь к доктору.",
+      "similarity": 0.3,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Степень PhD",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "双学位",
+      "expected_ru": "Двойной диплом",
+      "raw_ru": "Узнайте о двойной степени.",
+      "similarity": 0.615,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Двойной диплом",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "联合培养",
+      "expected_ru": "Совместная подготовка",
+      "raw_ru": "Запрос информации о совместном производстве",
+      "similarity": 0.6,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Совместная подготовка",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "交换生",
+      "expected_ru": "Студент по обмену",
+      "raw_ru": "Пожалуйста, узнайте об обмене.",
+      "similarity": 0.533,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Студент по обмену",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "留学生",
+      "expected_ru": "Иностранный студент",
+      "raw_ru": "Пожалуйста, узнайте о студентах.",
+      "similarity": 0.667,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Иностранный студент",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "预科",
+      "expected_ru": "Подготовительное отделение",
+      "raw_ru": "Пожалуйста, проконсультируйтесь с преп.",
+      "similarity": 0.36,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Подготовительное отделение",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "俄语授课",
+      "expected_ru": "Преподавание на русском языке",
+      "raw_ru": "Пожалуйста, узнайте о курсе на русском языке.",
+      "similarity": 0.635,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Преподавание на русском языке",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "中俄双语",
+      "expected_ru": "Двуязычие (китайский и русский)",
+      "raw_ru": "Пожалуйста, запросите двуязычную информацию в Китае и России.",
+      "similarity": 0.462,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Двуязычие (китайский и русский)",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "教材",
+      "expected_ru": "Учебник",
+      "raw_ru": "Пожалуйста, узнайте о учебных материалах.",
+      "similarity": 0.714,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Учебник",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "课件",
+      "expected_ru": "Учебные материалы",
+      "raw_ru": "Пожалуйста, попросите информацию о курсе.",
+      "similarity": 0.312,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Учебные материалы",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "讲义",
+      "expected_ru": "Конспект лекций",
+      "raw_ru": "Пожалуйста, ищите информацию о раздаче",
+      "similarity": 0.286,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Конспект лекций",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "教学大纲",
+      "expected_ru": "Программа курса",
+      "raw_ru": "Информация о учебной программе",
+      "similarity": 0.571,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Программа курса",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "作业",
+      "expected_ru": "Домашнее задание",
+      "raw_ru": "Пожалуйста, ищите информацию о работе",
+      "similarity": 0.267,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Домашнее задание",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "考试",
+      "expected_ru": "Экзамен",
+      "raw_ru": "Пожалуйста, узнайте об экзаменах.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Экзамен",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "考查",
+      "expected_ru": "Зачёт",
+      "raw_ru": "Пожалуйста, ознакомьтесь с соответствующей информацией об экзамене.",
+      "similarity": 0.4,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Зачёт",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "测验",
+      "expected_ru": "Контрольная работа",
+      "raw_ru": "Пожалуйста, запросите информацию о тесте.",
+      "similarity": 0.353,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Контрольная работа",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "平时成绩",
+      "expected_ru": "Текущая успеваемость",
+      "raw_ru": "Пожалуйста, выясните, что происходит.",
+      "similarity": 0.263,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Текущая успеваемость",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "期末考试",
+      "expected_ru": "Итоговый экзамен",
+      "raw_ru": "Пожалуйста, узнайте об окончательном экзамене.",
+      "similarity": 0.6,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Итоговый экзамен",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "及格",
+      "expected_ru": "Удовлетворительно",
+      "raw_ru": "Пожалуйста, проверьте информацию о пропуске.",
+      "similarity": 0.471,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Удовлетворительно",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "优秀",
+      "expected_ru": "Отлично",
+      "raw_ru": "Пожалуйста, узнайте, что в этом хорошего.",
+      "similarity": 0.429,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Отлично",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "满分",
+      "expected_ru": "Максимальный балл",
+      "raw_ru": "Пожалуйста, проверьте полную информацию о баллах.",
+      "similarity": 0.438,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Максимальный балл",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "导师",
+      "expected_ru": "Научный руководитель",
+      "raw_ru": "Пожалуйста, узнайте о своем наставнике.",
+      "similarity": 0.368,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Научный руководитель",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "教授",
+      "expected_ru": "Профессор",
+      "raw_ru": "Пожалуйста, проконсультируйтесь с профессором.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Профессор",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "副教授",
+      "expected_ru": "Доцент",
+      "raw_ru": "Пожалуйста, узнайте о доценте.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Доцент",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "讲师",
+      "expected_ru": "Старший преподаватель",
+      "raw_ru": "Пожалуйста, проконсультируйтесь с преподавателем.",
+      "similarity": 0.65,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Старший преподаватель",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "助教",
+      "expected_ru": "Ассистент",
+      "raw_ru": "Пожалуйста, проконсультируйтесь с ассистентом.",
+      "similarity": 1.0,
+      "raw_correct": true,
+      "with_termbase_ru": "Узнать больше о  Ассистент",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "院长",
+      "expected_ru": "Декан",
+      "raw_ru": "Пожалуйста, проконсультируйтесь с директором.",
+      "similarity": 0.6,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Декан",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "系主任",
+      "expected_ru": "Заведующий кафедрой",
+      "raw_ru": "Пожалуйста, проконсультируйтесь с директором.",
+      "similarity": 0.333,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Заведующий кафедрой",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "截止日期",
+      "expected_ru": "Крайний срок",
+      "raw_ru": "Просьба представить информацию о сроках",
+      "similarity": 0.636,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Крайний срок",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "逾期不再受理",
+      "expected_ru": "Заявки, поданные после срока, не рассматриваются",
+      "raw_ru": "Пожалуйста, обратитесь к соответствующей информации, которая больше не допускается.",
+      "similarity": 0.244,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Заявки, поданные после срока, не рассматриваются",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "请准时参加",
+      "expected_ru": "Просьба прийти вовремя",
+      "raw_ru": "Пожалуйста, ознакомьтесь с соответствующей информацией для своевременного участия.",
+      "similarity": 0.4,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Просьба прийти вовремя",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "特此通知",
+      "expected_ru": "Настоящим уведомляем",
+      "raw_ru": "Пожалуйста, узнайте об этом уведомлении.",
+      "similarity": 0.684,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Настоящим уведомляем",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "如有疑问，请联系",
+      "expected_ru": "По всем вопросам обращаться",
+      "raw_ru": "Если у вас есть какие-либо вопросы, пожалуйста, свяжитесь с соответствующей информацией.",
+      "similarity": 0.458,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  По всем вопросам обращаться",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "此致敬礼",
+      "expected_ru": "С уважением",
+      "raw_ru": "Пожалуйста, узнайте об этой чести.",
+      "similarity": 0.4,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  С уважением",
+      "placeholder_survived": true,
+      "lost": []
+    },
+    {
+      "zh": "尊敬的",
+      "expected_ru": "Уважаемый",
+      "raw_ru": "Пожалуйста, попросите различную информацию.",
+      "similarity": 0.333,
+      "raw_correct": false,
+      "with_termbase_ru": "Узнать больше о  Уважаемый",
+      "placeholder_survived": true,
+      "lost": []
+    }
+  ]
+}
